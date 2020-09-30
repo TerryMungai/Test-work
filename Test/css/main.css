@@ -1,0 +1,239 @@
+body{
+	ba
+}
+header{
+	color: 
+}
+.top-header{
+	background: #BF7417;
+	padding: 15px 0;
+	height: 90px;
+	margin-top: px;
+
+}
+
+.container-fluid{
+	width: 101.9%;
+	margin-left: -12px;
+	box-sizing: fixed;
+}
+
+
+.my-content{
+	margin-left: -20px;
+	margin-top: -50px;
+}
+.contact{
+	margin-left: 69px;
+	margin-top: -53px;
+}
+.facebook{
+	margin-left: 1100px;
+	margin-top: -43px;
+
+}
+.twitter{
+	margin-left: 1139px;
+	margin-top: -38px;
+}
+.tweett{
+margin-top: 4px;
+}
+.instt{
+	margin-top: 4px;
+}
+.instagram{
+	margin-left: 1177px;
+	margin-top: -38px;
+	}
+.heading{
+	margin-top: 60px;
+	margin-left: 990px;
+}
+.navigation{
+	margin-top: 35px;
+}
+ a:hover{
+ 	
+ border-bottom: 5px solid #BF7417
+}
+.logo{
+	margin-left: 30px;
+	padding-top: 10px;
+
+}
+.Image{
+	margin-left: 200px;
+	margin-top: 90px;
+}
+.nav-item {
+}
+.one p{
+ margin-left: 20px;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-right: 0;
+}
+.container .two{
+	padding-top: 100px;
+}
+.container .two p{
+	font-size: 30px;
+	margin-left: 95px;
+}
+.container .three p{
+	padding-top: 25px;
+	margin-left: 70px;
+	font-size: 25px;
+	font-weight:normal;
+	font-family: sans-serif;
+}
+.container .four{
+	margin-top: -287px;
+	margin-left: 459px;
+}
+.container .four p{
+ margin-top: 4px;
+ margin-left: 100px;
+ font-size: 25px;
+ font-family: sans-serif;
+}
+
+.container .five p{
+ padding-top: 30px;
+ margin-left: 543px;
+ font-size: 25px;
+ font-family: sans-serif;
+}
+.container .six{
+	margin-top: -295px;
+	margin-left:1000px;
+}
+.container .six p{
+   margin-left: 86px;
+   font-size: 25px;
+
+}
+.container .seven p{
+ margin-left: 1040px;
+ margin-top: 53px;
+ font-size: 25px;
+}
+.login-form{
+	max-width: 400px;
+	min-height: 200px;
+	margin: 0 auto 0 auto;
+}
+.login-form form{
+	background: #ffffff;
+	margin-left: -380px;
+	margin-top: 55px;
+
+}
+.login-form label{
+	display: block;
+	color: #888888;
+	font-size: 14px;
+	margin-top: 15px;
+}
+.login-form input{
+	border: 1px solid #ccc;
+	width: 480px;
+	padding: 10px;
+	font-size: 15px;
+	margin-bottom: 15px;
+	background-color: #AAAAAA;
+
+}
+.nine input{
+	width: 69px;
+	margin-left: 53px;
+	border-radius: 10%;
+	background-color: #AAAAAA;
+	border: none;
+	height: 50px;
+color:white;
+}
+
+.ten input{
+	height: 90px;
+	margin-left: -380px;
+	width: 480px;
+}
+.container .eleven p{
+	margin-left: 690px;
+	font-size: 20px;
+	margin-top: -375px;
+
+}
+form input{
+	width: 489px;
+}
+.container .twelve p{
+	margin-left: 690px;
+	font-size: 20px;
+	margin-top: 80px;
+}
+.container .thirteen p{
+	margin-left: 690px;
+	font-size: 20px;
+	margin-top: 133px;
+}
+
+
+
+
+.log2 {
+	margin-left: 20px;
+	margin-top: 110px;
+	}
+.log2 p{
+	width: 600px;
+	background-color: #AAAAAA;
+	border: none;
+	text-align: center;
+	height: 75px;
+	padding-top: 30px;
+}
+.log3 {
+	margin-left: 120px; 
+	margin-top: 30px;
+}
+.log3 input{
+	width: 399px;
+	background-color: #AAAAAA;
+	border: none;
+	height: 40px;
+}
+.log4{
+
+	margin-left: 120px;
+	margin-top: 40px;
+}
+.log4 input{
+	width: 399px;
+	background-color: #AAAAAA;
+	border: none;
+	height: 40px;
+}
+.pag p{
+	margin-left: 397px;
+}
+.log5 button{
+	margin-left: 450px;
+	border: none;
+	background-color: #AAAAAA;
+	border-radius: 10px;
+	height: 47px;
+	width: 64px;
+	color:white;
+
+}
+.log6{
+	background-color: lightgrey;
+
+	width: 600px;
+	height: 350px;
+	margin-left: 270px;
+    margin-color:black;
+}
